@@ -17,10 +17,8 @@ The main purpose of this program is entertainment, as it is a game that you can 
 ## What does the program look like? (visual)
 The program appears in the form of a patch consisting of nine boxes.
 
-[Image1](https://github.com/Ody950/Lab04_TicTacToe/blob/master/Lab04_TicTacToe/game1.jpg)
-[Image2](https://github.com/Ody950/Lab04_TicTacToe/blob/master/Lab04_TicTacToe/game2.jpg)
-![In Browser](./Lab04_TicTacToe/game1.jpg)
-![In Browser](../Lab04_TicTacToe/game1.jpg)
+![Image1](./Lab04_TicTacToe/game1.jpg)
+![Image2](./Lab04_TicTacToe/game2.jpg)
 
 
 
