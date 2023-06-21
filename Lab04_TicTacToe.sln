@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04_TicTacToe", "Lab04_TicTacToe\Lab04_TicTacToe.csproj", "{C0A6F152-A06F-4D12-AF37-8B7321310583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab04_TicTacToe", "Lab04_TicTacToe\Lab04_TicTacToe.csproj", "{C0A6F152-A06F-4D12-AF37-8B7321310583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLab4", "TestLab4\TestLab4.csproj", "{61106A3D-8FB3-4736-A77C-EB22688EE07B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLab4", "TestLab4\TestLab4.csproj", "{61106A3D-8FB3-4736-A77C-EB22688EE07B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

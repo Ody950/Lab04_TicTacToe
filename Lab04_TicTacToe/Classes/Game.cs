@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lab04_TicTacToe.Classes
 {
-    class Game
+    public class Game
     {
         /// <summary>
         /// to select the player 1 name 
