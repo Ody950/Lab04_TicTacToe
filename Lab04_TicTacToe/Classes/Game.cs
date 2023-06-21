@@ -152,6 +152,5 @@ namespace Lab04_TicTacToe.Classes
             }
         }
 
-
     }
 }
